@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>MY REACT APP OF TEXTUTILS</h1>
+        <h1 style={{color:"pink"}}>MY REACT APP OF TEXTUTILS</h1>
       </header>
     </div>
   );
