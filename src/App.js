@@ -5,8 +5,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-        </p>
           Learn react  with gurleen 
       </header>
     </div>
