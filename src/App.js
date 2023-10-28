@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          MY REACT APP OF TEXTUTILS
+        <h1>MY REACT APP OF TEXTUTILS</h1>
       </header>
     </div>
   );
