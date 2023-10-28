@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1 style={{color:"pink",backgroundColor:"green"}}>MY REACT APP OF TEXTUTILS</h1>
-      </header>
+      <Navbar logoName={"TextUtils"} homeText={"Home"} aboutText={"about"}/>
     </div>
   );
 }
