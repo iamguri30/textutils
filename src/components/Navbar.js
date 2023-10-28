@@ -5,7 +5,7 @@ export default function Navbar(props) {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          <h3>{props.logoName}</h3>
+          <h3 style={{color:"pink"}}>{props.logoName}</h3>
         </a>
       </div>
     </nav>
